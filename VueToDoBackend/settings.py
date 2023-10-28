@@ -25,7 +25,7 @@ SECRET_KEY = 'gjo4(59d&hxf&q$i-rchxwr31qob*y@09y#^*adebn84+25&d3'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['todo-backend.apps.customary.app', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['c-41-46-049e759f.tenant-andrii.customarydev.net', 'localhost', '127.0.0.1']
 
 
 # Application definition
